@@ -34,6 +34,6 @@ Apollo 2.1.0
 * [fix the exception occurred when publish/rollback namespaces with grayrelease](https://github.com/apolloconfig/apollo/pull/4564)
 * [fix create namespace with single dot 500 error](https://github.com/apolloconfig/apollo/pull/4568)
 * [Add overloaded shortcut method to register BeanDefinition](https://github.com/apolloconfig/apollo/pull/4574)
-
+* [disable spring cloud discovery when running test to speed up test process and reduce error log](https://github.com/apolloconfig/apollo/pull/4604)
 ------------------
 All issues and pull requests are [here](https://github.com/apolloconfig/apollo/milestone/11?closed=1)
