@@ -29,9 +29,9 @@ Apollo 2.1.0
 * [fix openapi item with url illegalKey 400 error](https://github.com/apolloconfig/apollo/pull/4549)
 * [fix the exception occurred when publish/rollback namespaces with grayrelease](https://github.com/apolloconfig/apollo/pull/4564)
 * [fix create namespace with single dot 500 error](https://github.com/apolloconfig/apollo/pull/4568)
-* [Add overloaded shortcut method to register BeanDefinition](https://github.com/apolloconfig/apollo/pull/4574)
 * [Add nodejs client sdk and fix doc](https://github.com/apolloconfig/apollo/pull/4590)
 * [Move apollo-core, apollo-client, apollo-mockserver, apollo-openapi and apollo-client-config-data to apollo-java repo](https://github.com/apolloconfig/apollo/pull/4594)
 * [fix get the openapi interface that contains namespace information for deleted items](https://github.com/apolloconfig/apollo/pull/4596)
+
 ------------------
 All issues and pull requests are [here](https://github.com/apolloconfig/apollo/milestone/11?closed=1)
