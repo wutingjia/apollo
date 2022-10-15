@@ -33,6 +33,5 @@ Apollo 2.1.0
 * [Add nodejs client sdk and fix doc](https://github.com/apolloconfig/apollo/pull/4590)
 * [Move apollo-core, apollo-client, apollo-mockserver, apollo-openapi and apollo-client-config-data to apollo-java repo](https://github.com/apolloconfig/apollo/pull/4594)
 * [fix get the openapi interface that contains namespace information for deleted items](https://github.com/apolloconfig/apollo/pull/4596)
-* [disable spring cloud discovery when running test to speed up test process and reduce error log](https://github.com/apolloconfig/apollo/pull/4604)
 ------------------
 All issues and pull requests are [here](https://github.com/apolloconfig/apollo/milestone/11?closed=1)
